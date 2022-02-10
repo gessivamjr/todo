@@ -1,8 +1,6 @@
 # To-do List :pencil2:
 
-![Tela inicial](../todo/public/assets/print1.jpeg)
 ![Modal](../todo/public/assets/print2.jpeg)
-![Itens da lista](../todo/public/assets/print3.jpeg)
 ![Funcionalidade check](../todo/public/assets/print4.jpeg)
 
 ## Sobre
