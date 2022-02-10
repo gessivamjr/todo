@@ -1,7 +1,7 @@
 # To-do List :pencil2:
 
-![Modal](../todo/public/assets/print2.jpeg)
-![Funcionalidade check](../todo/public/assets/print4.jpeg)
+![](../todo/public/assets/print2.jpeg)
+![](../todo/public/assets/print4.jpeg)
 
 ## Sobre
 
