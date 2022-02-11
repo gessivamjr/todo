@@ -1,5 +1,7 @@
 # To-do List
-<img src="../todo/public/assets/print2.jpeg" alt="Modal"> <img src="../todo/public/assets/print4.jpeg" alt="Lista">
+
+![Modal](./assets/print2.jpeg)
+![Lista](./assets/print4.jpeg)
 
 ## Sobre
 
