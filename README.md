@@ -1,5 +1,4 @@
-# To-do List :pencil2:
-
+# To-do List
 <img src="../todo/public/assets/print2.jpeg" alt="Modal"> <img src="../todo/public/assets/print4.jpeg" alt="Lista">
 
 ## Sobre
