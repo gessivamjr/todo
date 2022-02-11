@@ -1,6 +1,6 @@
 # To-do List :pencil2:
 
-![Modal](../todo/public/assets/print2.jpeg) ![Lista](../todo/public/assets/print4.jpeg)
+<img src="../todo/public/assets/print2.jpeg" alt="Modal"> <img src="../todo/public/assets/print4.jpeg" alt="Lista">
 
 ## Sobre
 
